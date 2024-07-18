@@ -42,5 +42,3 @@ To run the notebook:
 1. Ensure you have the necessary dependencies installed (`transformers`, `nltk`, `rouge`, `sklearn`, `lightning`).
 2. Load the dataset into a pandas DataFrame.
 3. Follow the steps in the notebook to preprocess the data, fine-tune the model, and evaluate its performance.
-
-# TextSummarization-Using-Transformers
