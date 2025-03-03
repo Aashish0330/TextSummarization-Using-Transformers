@@ -34,7 +34,7 @@ The results are presented as a dictionary containing the computed BLEU, ROUGE sc
 ## Conclusion
 
 The T5 Transformer model performs well in summarizing text, with high ROUGE and BLEU scores indicating good overlap between the generated and reference summaries. 
-## Future Work
+--
 
 ## How to Run
 
